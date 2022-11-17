@@ -21,7 +21,7 @@ npx tailwindcss init
 ```
 npm run watch
 ```
-![Snímek obrazovky_20221117_144121](https://user-images.githubusercontent.com/92738343/202461755-f7669f13-23c2-4e20-beda-7653e6621fcf.png)
+![Snímek obrazovky_20221117_144738](https://user-images.githubusercontent.com/92738343/202463548-5f62a0ad-065b-40cc-88fd-b02b48a80bb1.png)
 
 ### Pro spuštění output.css pokud je nastavena cesta
 ```
@@ -30,3 +30,5 @@ npm run build
 Můžete upravovat soubory package.json a tailwind.config.js abyste změnili cestu k input/output css.
 Po případě nastavit si svoje vlastní barvy, responzivitu nebo animace.
 
+
+![Snímek obrazovky_20221117_144121](https://user-images.githubusercontent.com/92738343/202461755-f7669f13-23c2-4e20-beda-7653e6621fcf.png)
