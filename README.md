@@ -1,4 +1,4 @@
-# Tailwind login form
+# Tailwind neon login form
 Tento login formulář je napsán čistě v css frameworku Tailwind.
 
 ![Snímek obrazovky_20221117_141307](https://user-images.githubusercontent.com/92738343/202461886-87fc5aed-eab3-41c2-b818-aa023d562d6a.png)
