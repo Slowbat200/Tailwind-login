@@ -1,0 +1,17 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+}
+main{
+    display: flex;
+height: 50px;
+width: 50px;
+text-align: center;
+position: absolute;
+
+}
+#pyramid{
+    text-align: center;
+    font-weight: 800;
+}
